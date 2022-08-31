@@ -1,0 +1,27 @@
+p{
+    color: black;
+}
+body{
+    background-color: azure;
+}
+div{
+    color: yellow;
+    text-align: center;
+}
+#a1{
+    background-color: purple;
+}
+.b1{
+    color: purple;
+}
+#id1{
+    color: purple;
+}
+#id2{
+    color: purple;
+    text-align: left;
+}
+#id3{
+    color: purple;
+    text-align:left;
+}
